@@ -7,7 +7,7 @@ Welcome to the **GLOBE Environmental Awareness Game**! This Telegram-based text 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
+- [Usage](#key-components)
 
 ## Project Overview
 
